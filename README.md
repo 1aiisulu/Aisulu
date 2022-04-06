@@ -1,2 +1,11 @@
 # Aisulu
 Aigerim one love
+# fastest way
+import sys
+sys.stdout.write("Call of duty ")
+sys.stdout.write("and Black Ops")
+# output: Call of duty and Black Ops
+#another way but only for python 3
+print("Python ", end="")
+print("Programming") 
+# output: Python Programming
